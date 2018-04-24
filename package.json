@@ -17,6 +17,10 @@
   },
   "homepage": "https://github.com/Imronkhatib/modern_javascript#readme",
   "dependencies": {
-    "moment": "^2.22.1"
+    "moment": "^2.22.1",
+    "webpack": "^4.6.0"
+  },
+  "devDependencies": {
+    "webpack-cli": "^2.0.15"
   }
 }
